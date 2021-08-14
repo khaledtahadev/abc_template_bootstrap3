@@ -1,0 +1,12 @@
+/.. library CSS ../
+
+- CSS3 Spinners
+- Hover.css 
+- animate.css
+
+
+*********************************
+
+/.. library Js ../
+
+- WoW.js ==> relative https://github.com/michalsnik/aos/

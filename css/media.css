@@ -1,0 +1,40 @@
+/* Extra Small Media ==> Phones And Tablets */
+@media (max-width: 767px) {
+  .navbar-fixed-top .navbar-collapse,
+  .navbar-fixed-bottom .navbar-collapse {
+    max-height: none;
+  }
+  .navbar-nav > li > a {
+    padding: 15px;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ccc;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #fff;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: #fdfdfd;
+  }
+  .navbar-default .navbar-toggle:hover,
+  .navbar-default .navbar-toggle:focus {
+    background-color: #9c27b0;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  .subscribe .form-control {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+/* Small Media */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+/* Medium Media */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+/* Large Media */
+@media (min-width: 1200px) {
+}

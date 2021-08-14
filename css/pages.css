@@ -1,0 +1,75 @@
+/* Start BreadCrumbs */
+.bread {
+	background-color: #f5f5f5;
+}
+.bread .breadcrumb {
+	padding: 10px 0;
+	margin: 0;
+}
+/* End BreadCrumbs */
+
+/* Start About us */
+.about-us h3 {
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 40px;
+}
+.about-us hr {
+	width: 80%;
+}
+.about-us .img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+/* start section ceo */
+.ceo {
+	background-color: #eee;
+}
+.ceo .img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+.ceo p {
+	line-height: 1.8;
+}
+.ceo .btn-primary {
+	background-color: #444;
+	margin-bottom: 30px;
+}
+/* End Section ceo */
+/* End About Us */
+
+/* Start FAQ */
+.faq-intro h3 {
+	margin-top: 40px;
+}
+.faq-intro hr {
+	width: 70%;
+}
+
+.faq-ques .panel-group {
+	width: 80%;
+}
+
+.faq-ques .panel-group .panel {
+	margin-bottom: 20px;
+}
+.faq-ques .panel-heading {
+	position: relative;
+}
+.faq-ques .panel-group .panel-heading a:after {
+	content: "\e113"; /* Up */
+	font-family: "Glyphicons Halflings";
+	/* float: right; */
+	position: absolute;
+	right: 4px;
+}
+.faq-ques .panel-group .panel-heading a.collapsed:after {
+	content: "\e114"; /* Down */
+	font-family: "Glyphicons Halflings";
+	/* float: right; */
+}
+/* End FAQ */

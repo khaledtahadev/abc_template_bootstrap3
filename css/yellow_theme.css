@@ -1,0 +1,30 @@
+.navbar-default .navbar-brand span,
+.carousel-caption h1,
+.testim span,
+footer .copyright span,
+footer h3 {
+  color: #ffc107;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.settBox .fa-gear,
+.features,
+.topTop {
+  background-color: #ffc107;
+}
+.navbar-right .dropdown-menu {
+  border-top: 3px solid #ffc107;
+}
+.carousel-indicators li {
+  border: 1px solid #ffc107;
+}
+.settBox .color-box {
+  border: 3px solid #ffc107;
+}
